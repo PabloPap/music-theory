@@ -1,19 +1,12 @@
-# vite-react-eslint-prettier starter
+# Music Theory
 
-An one-step solution to create your react project supported with eslint and prettier with minimal setup.
+An application for practice music theory concepts, though puzzles
 
-## Info
+## Features
 
-Tiged is a community driven fork of degit (https://github.com/tiged/tiged/blob/main/README.md)
+Currently working on a exercise where the user should
+identify the interval type of 2 notes.
 
-## Usage
+## Tech Stack
 
-Create a new folder for the project.
-
-```bash
-tiged user/repo my-new-project
-```
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
+Currently this is a react app powered by vite
